@@ -1,5 +1,3 @@
-// RootLayout.tsx (Root layout with sidebar and header)
-
 import "./globals.css";
 import React from "react";
 import Header from "@/components/app/header";
